@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace 'space.iqbalsyafiq.rakitpc'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "space.iqbalsyafiq.rakitpc"
         minSdk 21
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -32,6 +32,9 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    buildFeatures {
+        viewBinding true
+    }
 }
 
 dependencies {
@@ -39,7 +42,7 @@ dependencies {
     // Room Database
     implementation 'androidx.room:room-runtime:2.4.3'
     implementation 'androidx.room:room-ktx:2.4.3'
-    implementation 'androidx.room:room-paging:2.5.0-alpha03'
+    implementation 'androidx.room:room-paging:2.5.0-beta01'
     kapt 'androidx.room:room-compiler:2.4.3'
 
     // Datastore

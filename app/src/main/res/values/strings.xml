@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Rakit PC Expert System</string>
+    <string name="rakit_pc">rakit pc</string>
+    <string name="rakit_pc_title">Rakit PC</string>
+    <string name="rakit_pc_message">Sebuah sistem pakar yang memberikan saran terkait komponen komputer sesuai kebutuhan pelanggan</string>
+    <string name="mulai">Mulai</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="back">Back</string>
+    <string name="tidak">Tidak</string>
+    <string name="ya">Ya</string>
+    <string name="pilihan_jawaban">Pilihan Jawaban</string>
+    <string name="motherboard">Motherboard</string>
+    <string name="komponen">Komponen</string>
+    <string name="processor">Processor</string>
+    <string name="ram">RAM</string>
+    <string name="storage">Storage</string>
+    <string name="gpu">GPU</string>
+    <string name="power_supply">Power Supply</string>
+    <string name="cooler_system">Cooler System</string>
+    <string name="casing">Casing</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="deskripsi">Deskripsi</string>
 </resources>
