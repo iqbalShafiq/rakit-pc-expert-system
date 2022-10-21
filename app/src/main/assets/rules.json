@@ -10,7 +10,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Alcatroz Futura Black N3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 2,
@@ -23,7 +24,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 3,
@@ -36,7 +38,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD Ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 4,
@@ -49,7 +52,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Alcatroz Futura Black N3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 5,
@@ -62,7 +66,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 6,
@@ -75,7 +80,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 7,
@@ -88,7 +94,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Alcatroz Futura Black N3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 8,
@@ -101,7 +108,8 @@
     "gpu": "MSI GeForce RTX 2060",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 9,
@@ -114,7 +122,8 @@
     "gpu": "MSI NVIDIA GeForce RTX 3080",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 10,
@@ -127,7 +136,8 @@
     "gpu": "MSI GeForce RTX 2060",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Alcatroz Futura Black N3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 11,
@@ -140,7 +150,8 @@
     "gpu": "MSI GeForce RTX 2060",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 12,
@@ -153,7 +164,8 @@
     "gpu": "MSI GeForce RTX 2060",
     "coolerCPU": "Corsair H100 Rgb 240Mm Liquid Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Infineon 3000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 13,
@@ -166,7 +178,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 14,
@@ -179,7 +192,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 15,
@@ -192,7 +206,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 16,
@@ -205,7 +220,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 17,
@@ -218,7 +234,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 18,
@@ -231,7 +248,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 19,
@@ -244,7 +262,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 20,
@@ -257,7 +276,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 21,
@@ -270,7 +290,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 22,
@@ -283,7 +304,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 23,
@@ -296,7 +318,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 24,
@@ -309,7 +332,8 @@
     "gpu": "Gigabyte Radeon RX 580",
     "coolerCPU": "Msi Mpg Coreliquid K240 Argb Liquid Aio Water Cpu Cooler",
     "casing": "AULA Gaming Gear Casing Pc Gaming Komputer Gaming Aula Wave Fz009Rgb Case Pc",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game hingga high end, dengan non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 25,
@@ -319,10 +343,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 26,
@@ -332,10 +357,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 27,
@@ -345,10 +371,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 28,
@@ -358,10 +385,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 29,
@@ -371,10 +399,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 30,
@@ -384,10 +413,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 31,
@@ -397,10 +427,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 32,
@@ -410,10 +441,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 33,
@@ -423,10 +455,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "EELIC PSU-S450W Power Supply PSU 450 Watt 4A",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 34,
@@ -436,10 +469,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "Simbadda Power Supply 400W Psu Pc 400Watt Box Psu Komputer",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 35,
@@ -449,10 +483,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "Simbadda Power Supply 400W Psu Pc 400Watt Box Psu Komputer",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 36,
@@ -462,10 +497,11 @@
     "ram": "Samsung Memory RAM DDR4 8GB",
     "storage": "Samsung SSD 850 EVO 500GB",
     "powerSupply": "Simbadda Power Supply 400W Psu Pc 400Watt Box Psu Komputer",
-    "gpu": "Gigabyte Radeon RX 560",
+    "gpu": "MSI NVIDIA GeForce GTX 1660 Ti",
     "coolerCPU": "Arctic Liquid Freezer Ii 360 A Rgb Aio Cpu Water Cooler",
     "casing": "Armaggeddon Casing Komputer Nimitz N5 Aurora Micro-Atx For Pc - Putih",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, karena non IGP adalah Nvidia, maka peforma tidak perlu dikhawatirkan akan lambat (dapat membantu proses render semakin cepat), karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 37,
@@ -478,7 +514,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 38,
@@ -491,7 +528,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 39,
@@ -504,7 +542,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 40,
@@ -517,7 +556,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 41,
@@ -530,7 +570,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 42,
@@ -543,7 +584,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 43,
@@ -556,7 +598,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 44,
@@ -569,7 +612,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 45,
@@ -582,7 +626,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 46,
@@ -595,7 +640,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 47,
@@ -608,7 +654,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 48,
@@ -621,7 +668,8 @@
     "gpu": "Gigabyte Radeon RX 560",
     "coolerCPU": "Cpu Liquid Cooler Evga Clc 280 Liquid Water Cpu Cooler Rgb Led",
     "casing": "Alcatroz Casing Azzuraa Neon",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan berat seperti Designing, Editing, Programming, serta Memainkan Game ringan hingga medium range, non IGP-nya adalah Radeon RX sehingga membuat peforma menjadi lebih tinggi dan cepat, karena telah memakai ssd, sistem di dalamnya akan berlangsung cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 49,
@@ -634,7 +682,8 @@
     "gpu": "Integrated",
     "coolerCPU": "1Stplayer Mt240 Black Argb Liquid Cooler With Argb Luminous Water",
     "casing": "Venom rx Squadron Fr Tempered Glass Casing Komputer- Blue/Red Led",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 50,
@@ -647,7 +696,8 @@
     "gpu": "Integrated",
     "coolerCPU": "1Stplayer Mt240 Black Argb Liquid Cooler With Argb Luminous Water",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 51,
@@ -660,7 +710,8 @@
     "gpu": "Integrated",
     "coolerCPU": "1Stplayer Mt240 Black Argb Liquid Cooler With Argb Luminous Water",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 52,
@@ -673,7 +724,8 @@
     "gpu": "Integrated",
     "coolerCPU": "1Stplayer Mt240 Black Argb Liquid Cooler With Argb Luminous Water",
     "casing": "Venom rx Squadron Fr Tempered Glass Casing Komputer- Blue/Red Led",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 53,
@@ -686,7 +738,8 @@
     "gpu": "Integrated",
     "coolerCPU": "1Stplayer Mt240 Black Argb Liquid Cooler With Argb Luminous Water",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 54,
@@ -699,7 +752,8 @@
     "gpu": "Integrated",
     "coolerCPU": "1Stplayer Mt240 Black Argb Liquid Cooler With Argb Luminous Water",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 55,
@@ -712,7 +766,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 56,
@@ -725,7 +780,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 57,
@@ -738,7 +794,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 58,
@@ -751,7 +808,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 59,
@@ -764,7 +822,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 60,
@@ -777,7 +836,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena telah memakai SATA, sistem di dalamnya akan berlangsung lebih cepat, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 61,
@@ -790,7 +850,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 62,
@@ -803,7 +864,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 63,
@@ -816,7 +878,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 64,
@@ -829,7 +892,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 65,
@@ -842,7 +906,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 66,
@@ -855,7 +920,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 240 Square Argb All In One Water Cooler",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 67,
@@ -868,7 +934,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 120 Square Argb Aio Water Cooler Elc Aqf120 Sqa",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 68,
@@ -881,7 +948,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 120 Square Argb Aio Water Cooler Elc Aqf120 Sqa",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 69,
@@ -894,7 +962,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 120 Square Argb Aio Water Cooler Elc Aqf120 Sqa",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor AMD ryzen juga membantu dalam kecepatan pada peforma saat bekerja."
   },
   {
     "rules": 70,
@@ -907,7 +976,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 120 Square Argb Aio Water Cooler Elc Aqf120 Sqa",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 71,
@@ -920,7 +990,8 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 120 Square Argb Aio Water Cooler Elc Aqf120 Sqa",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   },
   {
     "rules": 72,
@@ -933,6 +1004,7 @@
     "gpu": "Integrated",
     "coolerCPU": "Enermax Aquafusion 120 Square Argb Aio Water Cooler Elc Aqf120 Sqa",
     "casing": "Casing Alcatroz Futura Black N2000",
-    "totalPrice": 20000000
+    "totalPrice": "20.000.000",
+    "description": "PC ini dapat digunakan untuk melakukan pekerjaan ringan seperti Microsoft Word, Power Point, Menjelajah Internet, Media sehari-hari, dan sejenisnya, serta Memainkan Game ringan, karena tidak punya non-IGP, maka tidak dapat melakukan pekerjaan berat seperti desain atau editing hingga bermain game yang mid hingga high end, karena hanya memakai HDD sebagai storage, sistem tidak akan secepat pemakai SATA maupun SSD, namun harga lebih terjangkau, dan processor Intel Core yang membantu dalam performa lebih stabil dan lancar."
   }
 ]

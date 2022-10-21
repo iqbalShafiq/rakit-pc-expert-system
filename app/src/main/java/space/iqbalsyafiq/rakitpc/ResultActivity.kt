@@ -41,7 +41,7 @@ class ResultActivity : AppCompatActivity() {
                 tvCoolerComponent.text = result.coolerCPU
                 tvCasingComponent.text = result.casing
                 tvTotalPrice.text = getString(R.string.pricing, result.totalPrice)
-                tvDescription.text = "Coming Soon ..."
+                tvDescription.text = result.description
             }
         }
     }

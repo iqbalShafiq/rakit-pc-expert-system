@@ -15,5 +15,6 @@ data class Rule(
     val powerSupply: String,
     val ram: String,
     val rules: Int,
-    val storage: String
+    val storage: String,
+    val description: String
 ) : Parcelable
