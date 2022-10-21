@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
                     HomeActivity::class.java
                 ).also { intent ->
                     startActivity(intent)
+                    finish()
                 }
             }
         }

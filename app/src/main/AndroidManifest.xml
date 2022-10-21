@@ -13,6 +13,13 @@
         android:theme="@style/Theme.RakitPCExpertSystem"
         tools:targetApi="31">
         <activity
+            android:name=".InvalidResultActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ResultActivity"
             android:exported="false">
             <meta-data

@@ -21,5 +21,10 @@
     <string name="total_harga">Total Harga</string>
     <string name="deskripsi">Deskripsi</string>
     <string name="questioner">Kuesioner</string>
+    <string name="result">Hasil Akhir</string>
     <string name="question_number">Pertanyaan %1s</string>
+    <string name="pricing">Rp%1s</string>
+    <string name="sorry">Maaf</string>
+    <string name="invalid_message">Spek komputer yang anda inginkan belum tersedia saat ini. Silakan mencoba kembali.</string>
+    <string name="back_to_home">Kembali ke halaman utama</string>
 </resources>

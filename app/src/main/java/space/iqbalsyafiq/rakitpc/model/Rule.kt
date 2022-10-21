@@ -1,5 +1,9 @@
 package space.iqbalsyafiq.rakitpc.model
 
+import android.os.Parcelable
+import kotlinx.android.parcel.Parcelize
+
+@Parcelize
 data class Rule(
     val cpu: String,
     val casing: String,
@@ -12,4 +16,4 @@ data class Rule(
     val ram: String,
     val rules: Int,
     val storage: String
-)
+) : Parcelable
