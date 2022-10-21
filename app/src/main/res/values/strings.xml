@@ -20,4 +20,6 @@
     <string name="casing">Casing</string>
     <string name="total_harga">Total Harga</string>
     <string name="deskripsi">Deskripsi</string>
+    <string name="questioner">Kuesioner</string>
+    <string name="question_number">Pertanyaan %1s</string>
 </resources>
