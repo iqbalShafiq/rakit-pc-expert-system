@@ -1,9 +1,10 @@
 package space.iqbalsyafiq.rakitpc.model
 
 data class Question(
+    val id: String,
+    val no: Int,
+    val q: String,
+    val qn: String,
     val question: String,
-    val yesAnswer: Long,
-    val noAnswer: Long,
-    val yesNextQuestion: String,
-    val noNextQuestion: String
+    val yes: Int
 )
