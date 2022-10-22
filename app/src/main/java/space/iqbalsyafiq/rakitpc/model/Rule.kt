@@ -14,7 +14,7 @@ data class Rule(
     val output: String,
     val powerSupply: String,
     val ram: String,
-    val rules: Int,
+    val rules: String,
     val storage: String,
     val description: String
 ) : Parcelable

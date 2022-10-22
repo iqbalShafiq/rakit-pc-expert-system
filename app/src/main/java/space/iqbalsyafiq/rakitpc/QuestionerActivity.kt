@@ -1,22 +1,20 @@
 package space.iqbalsyafiq.rakitpc
 
 import android.content.Intent
+import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.google.gson.Gson
-import com.google.gson.reflect.TypeToken
 import space.iqbalsyafiq.rakitpc.databinding.ActivityQuestionerBinding
 import space.iqbalsyafiq.rakitpc.model.Question
 import space.iqbalsyafiq.rakitpc.model.Rule
-import space.iqbalsyafiq.rakitpc.util.DataUtil.getJsonDataFromAsset
 
 class QuestionerActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityQuestionerBinding
-    private val answers = mutableListOf<Int>()
-    private var questions = mutableListOf<Question>()
-    private var rules = mutableListOf<Rule>()
+    private val answers = mutableListOf<String>()
+    private var questions: java.util.ArrayList<Question> = arrayListOf()
+    private var rules: java.util.ArrayList<Rule> = arrayListOf()
     private var questionNumber = 1
     private var currentQuestionId = "Q1"
 
@@ -29,10 +27,20 @@ class QuestionerActivity : AppCompatActivity() {
         binding.toolbar.ivBack.setOnClickListener { onBackPressed() }
         binding.toolbar.tvTitle.text = getString(R.string.questioner)
 
-        // read questions.json asset file
-        val jsonFileString = getJsonDataFromAsset(applicationContext, "questions.json")
-        val listQuestionType = object : TypeToken<List<Question>>() {}.type
-        questions = Gson().fromJson(jsonFileString, listQuestionType)
+        // get questios and rules by intent
+        questions = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+            intent.getParcelableArrayListExtra(MainActivity.EXTRA_QUESTIONS, Question::class.java)!!
+        } else {
+            @Suppress("DEPRECATION")
+            intent.getParcelableArrayListExtra(MainActivity.EXTRA_QUESTIONS)!!
+        }
+
+        rules = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+            intent.getParcelableArrayListExtra(MainActivity.EXTRA_RULES, Rule::class.java)!!
+        } else {
+            @Suppress("DEPRECATION")
+            intent.getParcelableArrayListExtra(MainActivity.EXTRA_RULES)!!
+        }
 
         // show questions to screen
         with(binding) {
@@ -90,11 +98,6 @@ class QuestionerActivity : AppCompatActivity() {
     }
 
     private fun checkForwardChaining() {
-        // read rules.json asset file
-        val jsonFileString = getJsonDataFromAsset(applicationContext, "rules.json")
-        val listRuleType = object : TypeToken<List<Rule>>() {}.type
-        rules = Gson().fromJson(jsonFileString, listRuleType)
-
         // start forward chaining
         val answerOutput = answers.joinToString(" & ")
         Log.d(TAG, "checkForwardChaining: $answerOutput")

@@ -4,7 +4,7 @@
     <string name="rakit_pc_title">Rakit PC</string>
     <string name="rakit_pc_message">Sebuah sistem pakar yang memberikan saran terkait komponen komputer sesuai kebutuhan pelanggan</string>
     <string name="mulai">Mulai</string>
-    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="update_data">Update Data</string>
     <string name="back">Back</string>
     <string name="tidak">Tidak</string>
     <string name="ya">Ya</string>
@@ -27,4 +27,6 @@
     <string name="sorry">Maaf</string>
     <string name="invalid_message">Spek komputer yang anda inginkan belum tersedia saat ini. Silakan mencoba kembali.</string>
     <string name="back_to_home">Kembali ke halaman utama</string>
+    <string name="please_wait">Sedang memuat data …</string>
+    <string name="rakit_pc_v1_0_0">Rakit PC V1.0.0</string>
 </resources>
