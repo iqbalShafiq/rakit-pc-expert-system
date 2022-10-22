@@ -1,5 +1,5 @@
-# Music Player
-Raft PC is an android application that has an expert system in it. So that the user will be given several questions and will be given a solution in the form of components on the pc that must be purchased to get the desired performance. Questioner and rules data is fetched from google sheet that I have prepared using sheet google api.
+# Rakit PC
+Rakit PC (PC Rafting) is an android application that has an expert system in it. So that the user will be given several questions and will be given a solution in the form of components on the pc that must be purchased to get the desired performance. Questioner and rules data is fetched from google sheet that I have prepared using sheet google api.
 
 # Tech Stack
 - Kotlin Programming Language
